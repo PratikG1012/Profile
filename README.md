@@ -1,1 +1,9 @@
-# Profile
+# 💫 About Me:
+Hi, I'm Pratik Gangurde 👋<br>A WordPress Developer with 5+ years of experience building responsive, high-performance websites.<br><br>💻 I specialize in:<br><br>Custom WordPress Development<br>Theme & Plugin Customization<br>Website Optimization & SEO<br>UI/UX-focused web design<br><br>📈 I enjoy turning ideas into fully functional digital experiences and constantly exploring new technologies  AI.<br><br>🎥 Beyond coding, I create travel & entertainment content on YouTube, where I share creative storytelling and real-life experiences.<br><br>🛠️ Currently working on:<br><br>Advanced web projects<br>AI-based tools & SEO automation<br>Improving development workflows<br><br>🌱 Always learning, building, and improving.
+
+
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pratikgangurde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gangurdepratik2000@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white)
